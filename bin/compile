@@ -13,4 +13,3 @@ nos_init "$@"
 
 maven_install
 
-gradle_build
